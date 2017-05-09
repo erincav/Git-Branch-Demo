@@ -11,3 +11,5 @@ for(vi-0; i<30; i++){
 }
 
 }
+console.log("Hello");
+console.log("There");
